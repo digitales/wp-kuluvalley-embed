@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Kulu Valley Embed
  * Description: This allows for the embedding of Kulu Valley videos from their URLs
- * Version: 1.0
+ * Version: 1.1
  * Author: Dachis Group
  * Author URI: http://dachisgroup.com
  *
